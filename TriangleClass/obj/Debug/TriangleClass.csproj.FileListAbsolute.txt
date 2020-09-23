@@ -1,0 +1,5 @@
+C:\Users\WIndows 10\source\repos\TriangleHwPhilippineTembo\TriangleClass\bin\Debug\TriangleClass.dll
+C:\Users\WIndows 10\source\repos\TriangleHwPhilippineTembo\TriangleClass\bin\Debug\TriangleClass.pdb
+C:\Users\WIndows 10\source\repos\TriangleHwPhilippineTembo\TriangleClass\obj\Debug\TriangleClass.csprojAssemblyReference.cache
+C:\Users\WIndows 10\source\repos\TriangleHwPhilippineTembo\TriangleClass\obj\Debug\TriangleClass.dll
+C:\Users\WIndows 10\source\repos\TriangleHwPhilippineTembo\TriangleClass\obj\Debug\TriangleClass.pdb
